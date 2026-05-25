@@ -1,0 +1,45 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 48
+    },
+    "description": [
+      {
+        "text": "Addon",
+        "color": "#FFFF55",
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": " that adds ",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "text": "Waystones",
+        "color": "#FFFFFF",
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": " to villages",
+        "bold": false,
+        "italic": false
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 18,
+        "directory": "1-20-2_3"
+      },
+      {
+        "formats": 41,
+        "directory": "1-20-5"
+      }
+    ]
+  }
+}

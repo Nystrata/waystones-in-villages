@@ -1,0 +1,101 @@
+{
+	"name": "tbirds:village_aztec/buildings",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 2,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/waystone",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 2,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/dining_plaza",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 3,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/fletcher",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 10,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/house1",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 7,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/house2",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 7,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/house3",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 3,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/leatherworker",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 4,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/library",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 3,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/mason",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 4,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/observatory",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 3,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/toolsmith",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	},{
+		"weight": 2,
+		"element": {
+			"location": "tbirds:village_aztec/buildings/workshop",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}]
+}
