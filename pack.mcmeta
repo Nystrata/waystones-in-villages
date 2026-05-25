@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 48,
+    "pack_format": 88,
     "supported_formats": {
-      "min_inclusive": 18,
-      "max_inclusive": 48
+      "min_inclusive": 88,
+      "max_inclusive": 101.1,
     },
     "description": [
       {
@@ -30,16 +30,4 @@
       }
     ]
   },
-  "overlays": {
-    "entries": [
-      {
-        "formats": 18,
-        "directory": "1-20-2_3"
-      },
-      {
-        "formats": 41,
-        "directory": "1-20-5"
-      }
-    ]
-  }
 }

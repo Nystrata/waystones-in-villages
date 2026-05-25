@@ -1,2 +1,0 @@
-## Procura jogadores próximos do suporte de armadura para ativar o bloco de comando
-execute as @a at @s if entity @e[type=armor_stand,distance=..256,nbt={Marker:true,Invisible:true,Tags:["place"]}] run function place:marker

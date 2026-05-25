@@ -15,4 +15,4 @@ execute if score waystone rnd matches 10 run function pk_waystones:cmd/setblock/
 execute as @e[type=armor_stand,distance=..256,nbt={Marker:true,Invisible:true,Tags:["place"]}] at @s run setblock ~ ~2 ~ air
 
 ## Ativa os feedbacks dos blocos de comandos
-gamerule commandBlockOutput true
+gamerule command_block_output true

@@ -1,5 +1,5 @@
 ## Desativa os feedbacks dos blocos de comandos
-gamerule commandBlockOutput false
+gamerule command_block_output false
 
 ## Coloca uma vazio estrutural em cima do observador para ativar o bloco de comando
 execute as @e[type=armor_stand,distance=..256,nbt={Marker:true,Invisible:true,Tags:["place"]}] at @s run setblock ~ ~2 ~ structure_void
